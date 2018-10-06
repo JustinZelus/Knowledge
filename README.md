@@ -3,6 +3,10 @@
 
 #### memory
 
+- **Content not from webpack is served from /foo**  
+  https://stackoverflow.com/questions/42712054/content-not-from-webpack-is-served-from-foo
+  Some webpack questions.
+
 - **Cache (computing)**  
   https://searchstorage.techtarget.com/definition/cache
   How cache works & what does it do ?
