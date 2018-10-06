@@ -1,9 +1,9 @@
 # Knowledge
 
 
-#### memory
+#### knowledge
 
-Webpack 的 ContentBase vs publicPath vs output.path
+
 
 - **Webpack ContentBase vs publicPath vs output.path**  
   https://www.jianshu.com/p/e547fb9747e0
