@@ -3,8 +3,10 @@
 
 #### knowledge for daily work
 
-
-
+- **Why use mongoDB ?**  
+  https://dzone.com/articles/why-mongodb
+  MongoDB's Pros and cons.
+  
 - **Webpack ContentBase vs publicPath vs output.path**  
   https://www.jianshu.com/p/e547fb9747e0
   Some webpack questions.
