@@ -2,7 +2,11 @@
 
 
 #### Knowledge help programming 
-
+ 
+- **5個nice的Library，用在React中進行AJAX調用**  
+  http://www.ucamc.com/e-learning/javascript/236-javascript-ajax-api.html
+  How should I make an AJAX call in React ?
+ 
 - **Why use mongoDB ?**  
   https://dzone.com/articles/why-mongodb
   MongoDB's Pros and cons.
