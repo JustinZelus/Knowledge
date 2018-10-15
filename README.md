@@ -2,7 +2,10 @@
 
 
 #### Knowledge help programming 
- 
+- **React &lt;Route exact path="/"&gt; 與 &lt;Route path="/"&gt; 的不同**  
+  https://stackoverflow.com/questions/49162311/react-difference-between-route-exact-path-and-route-path
+  
+  How should I make an AJAX call in React ? 
 - **5個nice的Library，用在React中進行AJAX調用**  
   http://www.ucamc.com/e-learning/javascript/236-javascript-ajax-api.html
   How should I make an AJAX call in React ?
