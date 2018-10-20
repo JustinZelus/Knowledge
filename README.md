@@ -2,6 +2,9 @@
 
 
 #### Knowledge help programming 
+- **react的工作原理**  
+  https://blog.csdn.net/a1943206465/article/details/60570567
+  
 - **React &lt;Route exact path="/"&gt; 與 &lt;Route path="/"&gt; 的不同**  
   https://stackoverflow.com/questions/49162311/react-difference-between-route-exact-path-and-route-path
   
