@@ -3,9 +3,6 @@
 
 #### Learn by doing
 
-- **Free-css template**
-  https://www.free-css.com/template-categories/ecommerce
-
 - **Simple HTML/CSS websites, to practice my skills?**
   https://www.quora.com/Simple-HTML-CSS-websites-to-practice-my-skills
 
