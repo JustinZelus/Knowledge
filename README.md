@@ -1,7 +1,11 @@
 # Knowledge
 
 
-#### Knowledge help programming 
+#### Learn by doing
+
+- **Simple HTML/CSS websites, to practice my skills?**
+  https://www.quora.com/Simple-HTML-CSS-websites-to-practice-my-skills
+
 - **react的工作原理**  
   https://blog.csdn.net/a1943206465/article/details/60570567
   
